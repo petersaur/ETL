@@ -1,2 +1,4 @@
 # ETL
 ETL Project
+
+We used the S&P dataset along with the BitCoin dataset to do our analysis because these two are often viewed on the stock market, and we decided to compare and set them side by side to see what their currencies are in comparison to one another. From this we joined the two datasets through their corresponding dates in order to view their OPEN, HIGH, LOW, VOLUME during each day. We concluded that the volume(amount) of BitCoin is lesser than S&P volume by a significant value and as each day goes S&P stays consistent to their market prices, while BitCoin fluctuates to a high of around $18,000 which quickly drops to $8,000 by the ending date of Feburary 2018. With this said, we can see that the demand for S&P stays consistent which keeps the market value the same, while BitCoin goes from high demand to less of a demand, this brought their market prices down making the values inconsistent .
